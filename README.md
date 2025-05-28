@@ -14,6 +14,7 @@ JavaScript
 🚀 Como rodar o projeto localmente:
 
 Clone o repositório:
+
 git clone https://github.com/seu-usuario/seu-repositorio.git 
 
 Acesse a pasta do projeto:
