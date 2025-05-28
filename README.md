@@ -5,13 +5,14 @@ Projeto desenvolvido durante a atividade prática da plataforma Alura , onde imp
 O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente pelo sistema. O usuário insere um valor, e o jogo informa se o número é maior ou menor que a tentativa, até que o número correto seja descoberto.
 
 🛠 Tecnologias utilizadas:
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 🎯 Acesse a versão online: (https://jogosecreto-delta.vercel.app/)
 
 🚀 Como rodar o projeto localmente:
+
 Clone o repositório:
 git clone https://github.com/seu-usuario/seu-repositorio.git 
 
