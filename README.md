@@ -1,4 +1,4 @@
-🎲 Jogo do Número Secreto
+🎲 Jogo do Número Secreto - 
 Projeto desenvolvido durante a atividade prática da plataforma Alura , onde implementei um jogo simples e interativo utilizando HTML, CSS e JavaScript .
 
 💡 Sobre o projeto:
