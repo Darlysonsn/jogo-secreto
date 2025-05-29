@@ -20,4 +20,5 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 Acesse a pasta do projeto:
 
 cd seu-repositorio
+
 Abra o arquivo index.html em seu navegador ou use um servidor local como o Live Server (extensão do VS Code).
